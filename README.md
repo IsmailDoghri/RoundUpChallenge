@@ -1,4 +1,4 @@
-# Starling Bank Round-up Feature
+# Starling Bank Round-up Feature - Ismail Doghri
 
 This project implements a "round-up" feature for Starling Bank customers using the public developer API. The feature rounds up transactions to the nearest pound and transfers the difference into a savings goal, helping customers save for future adventures.
 
